@@ -1,0 +1,21 @@
+{
+  "name": "alkemychallenge_js",
+  "version": "1.0.0",
+  "description": "Proyecto hecho para la plataforma de Alkemy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ulimoralez/AlkemyChallenge_JS.git"
+  },
+  "keywords": [],
+  "author": "Ulises Moralez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ulimoralez/AlkemyChallenge_JS/issues"
+  },
+  "homepage": "https://github.com/ulimoralez/AlkemyChallenge_JS#readme"
+}
